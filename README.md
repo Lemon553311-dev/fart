@@ -13,4 +13,4 @@
 - Fart on your computer
 <br>
 <h2>Feedback from my friends</h2>
-<img src="[https://cdn.discordapp.com/attachments/666308133718589453/1126507254900867122/image.png](https://cdn.discordapp.com/attachments/665552069490376704/1126857757291720755/image.png)https://cdn.discordapp.com/attachments/665552069490376704/1126857757291720755/image.png">
+<img src="https://cdn.discordapp.com/attachments/665552069490376704/1126857757291720755/image.png">
