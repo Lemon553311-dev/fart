@@ -1,17 +1,16 @@
-<h1>Uxushud - new customhud mod, which doesnt require any third party mods.</h1>
+<h1>farthud - new customfart mod, which doesnt require any toilets to work.</h1>
 
-<p>I didn't plan to publish this mod, but my friends inspired me to do so. This mod has unique features that other custom hud mods don't have. </p>
-<p>Report bugs and issues, and they will be fixed.Also, you can give me ideas on new hud elements. Note that ive alr slowly developing hudeditor gui for my mod.</p>
+<p>I was gun pointed to publish this kod. This mod has no unique features. </p>
+<p>Report bugs and issues, and they will not be fixed.Also, please don't give me ideas on new hud elements. Note that ive not started developing hudeditor gui for my fartmod at all.</p>
 
 <br>
 
-<h2>Why my mod is good?</h2>
-<p>For example, mymod has SpectatorCameraClip, which allows your camera to clip in blocks while youre in specator mode. It can be used to clip your friends pov</p>
+<h2>Why my mod is fart?</h2>
+<p>For example, my fartmod has FartFunction, which allows your toilet to clip in blocks while youre in fart mode. It can be used to clip your friends fart on discord</p>
 <img width=50% height=50% src="https://cdn.discordapp.com/attachments/1057628134750556181/1126487220560330783/image.png">
 
 ## How to edit config?
-- You need to launch your game with this mod. After youve launched mc, it creates config file in directory ".minecraft\config\uxushud_config.txt"
-- When your game isnt launched, you can customize 
+- Fart on your computer
 <br>
 <h2>Feedback from my friends</h2>
 <img src="https://cdn.discordapp.com/attachments/666308133718589453/1126507254900867122/image.png">
