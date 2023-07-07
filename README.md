@@ -14,3 +14,6 @@
 <br>
 <h2>Feedback from my friends</h2>
 <img src="https://cdn.discordapp.com/attachments/665552069490376704/1126857757291720755/image.png">
+<img src="https://cdn.discordapp.com/attachments/665552069490376704/1126858349602942976/image.png">
+<img src="![image](https://github.com/Lemon553311-dev/fart/assets/60439353/0d4f2006-a6e2-4761-92b1-119d491bf979)">
+this loser is accusing me of stealing!!!!!!! i would NEVER Steal. 
